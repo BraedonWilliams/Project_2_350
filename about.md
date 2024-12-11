@@ -13,5 +13,5 @@ Apache Cassandra is an open-source NoSQL distributed database. It uses the Cassa
 - **Data Updates:** Updating data takes longer since Apache Cassandra must replicate this data to nodes across the cluster, which can sometimes result in data inconsistency.
 
 ### Future Plans for Apache Cassandra:
-1. Continuing to address security issues as they arise. The world is constantly changing, so it is important that software support is kept on top of.
-2. Expanding their contribution base outside of the United States to hopefully improve the software and encourage more people to use Apache Cassandra.
+1. Continuing to address security issues as they arise. The world is constantly changing, so it is important that software support is kept on top of. Along with this, they are hoping to increase the global collaboration on Apache Cassandra. They believe having a diverse collaborator pool will help to prepare for security issues as they arise.
+2. Along with expanding their pool of contributors, they are hoping to expand their user pool. Their goal is be more welcoming to new users. 
